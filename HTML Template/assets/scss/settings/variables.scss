@@ -14,19 +14,19 @@ $font-family-main: 'Nunito', sans-serif;
 $theme: red;
 
 //red
-$color-accent: #ff5c72;
-$color-accent-hover: #f23f57;
-$color-accent-active: #f0354e;
+$color-accent: #6EBFB5;
+$color-accent-hover: #6EBFB5;
+$color-accent-active: #6EBFB5;
 
-$color-button-accent: #ff5c72;
-$color-button-accent-hover: #f23f57;
-$color-button-accent-active: #f0354e;
+$color-button-accent: #6EBFB5;
+$color-button-accent-hover: #6EBFB5;
+$color-button-accent-active: #6EBFB5;
 
 $color-accent-1: #7fb5ff;
 $color-accent-2: #a485f2;
 $color-accent-3: #38e0c4;
 
-$color-event: linear-gradient(to top, #ff5c72, #a485f2);
+$color-event: linear-gradient(to top, #6EBFB5, #a485f2);
 
 //blue
 @if $theme == blue {
@@ -39,7 +39,7 @@ $color-event: linear-gradient(to top, #ff5c72, #a485f2);
   $color-button-accent-active: #5696f0;
 
   $color-accent-1: #a485f2;
-  $color-accent-2: #ff5c72;
+  $color-accent-2: #6EBFB5;
   $color-accent-3: #38e0c4;
 
   $color-event: linear-gradient(to top, #7fb5ff, #3edbfa);
@@ -57,7 +57,7 @@ $color-event: linear-gradient(to top, #ff5c72, #a485f2);
 
   $color-accent-1: #38e0c4;
   $color-accent-2: #7fb5ff;
-  $color-accent-3: #ff5c72;
+  $color-accent-3: #6EBFB5;
 
   $color-event: linear-gradient(to top, #a485f2, #7fb5ff);
 }
@@ -72,7 +72,7 @@ $color-event: linear-gradient(to top, #ff5c72, #a485f2);
   $color-button-accent-hover: #20d4b6;
   $color-button-accent-active: #17d1b2;
 
-  $color-accent-1: #ff5c72;
+  $color-accent-1: #6EBFB5;
   $color-accent-2: #a485f2;
   $color-accent-3: #7fb5ff;
 
@@ -81,19 +81,19 @@ $color-event: linear-gradient(to top, #ff5c72, #a485f2);
 
 //gradient-red
 @if $theme == gradient-red {
-  $color-accent: #ff5c72;
-  $color-accent-hover: #f23f57;
-  $color-accent-active: #f0354e;
+  $color-accent: #6EBFB5;
+  $color-accent-hover: #6EBFB5;
+  $color-accent-active: #6EBFB5;
 
-  $color-button-accent: linear-gradient(to right, #ff5c72, #a485f2);
-  $color-button-accent-hover: linear-gradient(to right, #f23f57, #8b67e5);
-  $color-button-accent-active: linear-gradient(to right, #f0354e, #835de3);
+  $color-button-accent: linear-gradient(to right, #6EBFB5, #a485f2);
+  $color-button-accent-hover: linear-gradient(to right, #6EBFB5, #8b67e5);
+  $color-button-accent-active: linear-gradient(to right, #6EBFB5, #835de3);
 
   $color-accent-1: #7fb5ff;
   $color-accent-2: #a485f2;
   $color-accent-3: #38e0c4;
 
-  $color-event:  linear-gradient(to top, #ff5c72, #a485f2);
+  $color-event:  linear-gradient(to top, #6EBFB5, #a485f2);
 }
 
 //gradient-blue
@@ -107,7 +107,7 @@ $color-event: linear-gradient(to top, #ff5c72, #a485f2);
   $color-button-accent-active: linear-gradient(to right, #5696f0, #13cdf2);
 
   $color-accent-1: #a485f2;
-  $color-accent-2: #ff5c72;
+  $color-accent-2: #6EBFB5;
   $color-accent-3: #38e0c4;
 
   $color-event:  linear-gradient(to top, #7fb5ff, #3edbfa);
@@ -125,7 +125,7 @@ $color-event: linear-gradient(to top, #ff5c72, #a485f2);
 
   $color-accent-1: #38e0c4;
   $color-accent-2: #7fb5ff;
-  $color-accent-3: #ff5c72;
+  $color-accent-3: #6EBFB5;
 
   $color-event: linear-gradient(to top, #a485f2, #7fb5ff);
 }
@@ -140,7 +140,7 @@ $color-event: linear-gradient(to top, #ff5c72, #a485f2);
   $color-button-accent-hover: linear-gradient(to right, #20d4b6, #619df2);
   $color-button-accent-active: linear-gradient(to right, #17d1b2, #5696f0);
 
-  $color-accent-1: #ff5c72;
+  $color-accent-1: #6EBFB5;
   $color-accent-2: #a485f2;
   $color-accent-3: #7fb5ff;
 

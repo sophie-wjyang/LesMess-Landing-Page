@@ -65,7 +65,7 @@
               <tr>
                 <td style="font-family: sans-serif; font-size: 14px; vertical-align: top; text-align: center; color: #9eb4d2;
                     padding-top: 20px; max-width: 400px;" valign="top" align="center">Click
-                  <a href="" target="_blank" style="color: #ff5c72; text-decoration: none;"><b>here</b></a> to contact Sigma
+                  <a href="" target="_blank" style="color: #6EBFB5; text-decoration: none;"><b>here</b></a> to contact Sigma
                   about building your plan.
                 </td>
               </tr>
@@ -73,13 +73,13 @@
                 <td style="font-family: sans-serif; font-size: 24px; vertical-align: top; text-align: center;
                     padding-top: 36px; max-width: 400px;" valign="top" align="center">
                   <a href="" target="_blank" style="text-decoration: none !important; display: inline-block; padding-top: 20px;
-                      padding-bottom: 20px; padding-right: 32px; padding-left: 32px; color: #ffffff; background-color: #ff5c72;
+                      padding-bottom: 20px; padding-right: 32px; padding-left: 32px; color: #ffffff; background-color: #6EBFB5;
                       border-radius: 8px;">Get the Sigma</a></td>
               </tr>
               <tr>
                 <td style="font-family: sans-serif; font-size: 14px; vertical-align: top; text-align: center; color: #9eb4d2;
                     padding-top: 68px; max-width: 400px;" valign="top" align="center">PS. Checkout another great
-                  <a href="http://themes.aspirity.com/" target="_blank" style="color: #ff5c72; text-decoration: none;">
+                  <a href="http://themes.aspirity.com/" target="_blank" style="color: #6EBFB5; text-decoration: none;">
                     Aspirity templates</a>.
                 </td>
               </tr>
